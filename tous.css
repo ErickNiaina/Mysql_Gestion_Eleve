@@ -1,0 +1,10 @@
+li {
+	color: green;
+	list-style-type: none;
+	display: inline;
+	margin-left: 120px;
+	text-decoration: none;
+}
+li a{
+	color:orange;
+}
